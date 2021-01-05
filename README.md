@@ -1,1 +1,1 @@
-# react-shopplus
+# shopplus
